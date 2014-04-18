@@ -1,9 +1,10 @@
 This Release folder stores SDKs for our products in package format.
 
-Support the following products: BLEShield and BLEMini.
+Support the following products: BLE Shield, BLE Mini and Blend Micro.
 
 We are going to add more interesting resource for makers to do their innovative projects.
 
-* Note that for up to date source code, please refer to each reposotory of RedBearLab.
+* Note that for up to date source code, please refer to each repository of RedBearLab:
+https://github.com/RedBearLab?tab=repositories
 
 Cheers!
